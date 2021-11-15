@@ -1,6 +1,6 @@
 # virtual-spreadsheet
 
-> A lightweight template for building NPM React library modules
+> A lightweight template for building React.js library modules
 
 
 # Export components, data, hooks, or functions from index.js
